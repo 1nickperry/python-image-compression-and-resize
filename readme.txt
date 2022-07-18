@@ -1,0 +1,1 @@
+https://www.thepythoncode.com/article/compress-images-in-python
